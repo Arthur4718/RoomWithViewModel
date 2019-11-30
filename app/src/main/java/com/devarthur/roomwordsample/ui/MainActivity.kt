@@ -15,6 +15,8 @@ import com.devarthur.roomwordsample.data.entity.Word
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 //Sample created from https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/#14
+
+//More on architecture https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/#15
 class MainActivity : AppCompatActivity() {
 
     private lateinit var wordViewModel: WordViewModel
